@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Erick 😁
+## Bem-vindo(a) ao perfil meu perfil 😁
 
  <div>
    <a href="https://github.com/Erick0149">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick0149&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick0149&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick0149&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick0149&layout=compact&langs_count=6&theme=dark"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Minhas redes abaixo!
  
 <div>
   <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
